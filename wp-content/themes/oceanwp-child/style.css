@@ -11,3 +11,39 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  oceanwpchild
 */
+
+*
+
+h1 {
+font-family: 'Playfair Display', serif;
+font-style: normal;
+font-weight: bold;
+color: #fcfcfc !important;
+}
+h2 {
+font-family: 'Playfair Display', serif;
+font-style: normal;
+font-weight: bold;
+color: black !important;
+}
+
+h3 {
+font-family: 'Playfair Display', serif;
+font-style: normal;
+font-weight: bold;
+color: black !important;
+}
+h4 {
+font-family: 'Playfair Display', serif;
+font-style: normal;
+font-weight: bold;
+color: black !important;
+}
+
+p{
+font-family: 'Poppins', sans-serif !important; 
+}
+
+body {
+    font-family: 'Poppins', sans-serif; 
+}
